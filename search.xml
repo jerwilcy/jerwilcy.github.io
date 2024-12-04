@@ -5,8 +5,8 @@
     
     <entry>
       <title>风机发电原理</title>
-      <link href="/2024/12/04/%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/12/04/%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+      <link href="/chengyi/%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+      <url>/chengyi/%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<h1 id="风机发电原理"><a href="#风机发电原理" class="headerlink" title="风机发电原理"></a>风机发电原理</h1><p>风力发电是一种利用风能转化为电能的技术。风机通过风力驱动叶片旋转，进而带动发电机产生电力。以下是风机发电的基本原理：</p><h2 id="风力驱动"><a href="#风力驱动" class="headerlink" title="风力驱动"></a>风力驱动</h2><p>风机的叶片设计成类似于飞机的机翼形状，当风吹过叶片时，会在叶片的两侧产生不同的气压，从而产生升力。这种升力使得叶片旋转。</p><h2 id="机械能转化为电能"><a href="#机械能转化为电能" class="headerlink" title="机械能转化为电能"></a>机械能转化为电能</h2><p>叶片的旋转通过主轴传递到发电机。发电机内部有线圈和磁铁，旋转的线圈在磁场中切割磁力线，产生电流。这一过程将机械能转化为电能。</p><h2 id="电力传输"><a href="#电力传输" class="headerlink" title="电力传输"></a>电力传输</h2><p>产生的电力通过变压器升压后，输送到电网，供给家庭和工业使用。</p><h2 id="风力发电的优势"><a href="#风力发电的优势" class="headerlink" title="风力发电的优势"></a>风力发电的优势</h2><ol><li><strong>可再生</strong>：风能是取之不尽的自然资源。</li><li><strong>环保</strong>：风力发电不产生温室气体和污染物。</li><li><strong>经济</strong>：随着技术进步，风力发电的成本逐渐降低。</li></ol><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>风力发电是实现可持续发展的重要途径之一。随着技术的不断进步，风力发电的效率和经济性将进一步提高，为全球能源转型提供强有力的支持。</p>]]></content>
       
@@ -24,12 +24,26 @@
     
     <entry>
       <title>cy的博文</title>
-      <link href="/2024/12/04/cy%E7%9A%84%E5%8D%9A%E6%96%87/"/>
-      <url>/2024/12/04/cy%E7%9A%84%E5%8D%9A%E6%96%87/</url>
+      <link href="/chengyi/cy%E7%9A%84%E5%8D%9A%E6%96%87/"/>
+      <url>/chengyi/cy%E7%9A%84%E5%8D%9A%E6%96%87/</url>
       
         <content type="html"><![CDATA[<!-- <div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style> -->]]></content>
       
       
+      <categories>
+          
+          <category> 技术类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -37,8 +51,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2024/12/04/hello-world/"/>
-      <url>/2024/12/04/hello-world/</url>
+      <link href="/chengyi/hello-world/"/>
+      <url>/chengyi/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
